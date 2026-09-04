@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 排版工作区（临时文件，不归档）
+workplace/
+待审稿.md
+page*.png
+
+# 打包产物
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
