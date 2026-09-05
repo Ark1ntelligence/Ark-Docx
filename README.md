@@ -2,7 +2,7 @@
  <img width="275" height="275" alt="Ark-Docx Logo" src="https://github.com/user-attachments/assets/87f6833c-7a4d-4f2e-a85d-457cfe4b1a48" />
 
 
-将 PDF / Word / PPT / 图片 等材料一键排版为符合公司《公文排版规范》的 Word 文档（.docx），支持按要点起草、批量排版、低级错误检查与修改对比报告。面向豆包/WorkBuddy/Qwen桌面版「本地电脑」模式使用。
+将 PDF / Word / PPT / 图片 等材料一键排版为符合公司《公文排版规范》的 Word 文档（.docx），支持按要点起草、批量排版、低级错误检查与修改对比报告。面向豆包/WorkBuddy/Qwen 桌面版及网页版模式使用。
 
 ## 功能特性
 
